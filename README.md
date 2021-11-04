@@ -1,7 +1,7 @@
 # image_processing 
 
 影像處理
-Morphologic : Find barcode 
+* Morphologic : Find barcode 
 1. Gaussian Blur 處理雜訊
 2. Adaptive threshold 影像明暗程度不一
 3. Opening : Erosion -> dilation 處理圓圈外圍多餘的線條
